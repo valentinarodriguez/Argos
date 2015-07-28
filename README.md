@@ -60,3 +60,8 @@ Download the apps ArgosComunitaeWebService and ArgosComunitaeW
 Install both
 ArgosCommunitaWebService should installed in Glassfish before.
 ArgosComunitaeW is the user inteface and needs a ArgosCommunitaWebService in order to work.
+
+For login use:
+Look into the table usuario:
+user: avalers
+pass: 123
